@@ -21,3 +21,11 @@
 #### Components
 * props in a component do not change
 * changes its state though
+
+#### Node
+(set up git repo)
+cd {git-repo}
+npm -g create-react-app (sudo if necessary)
+create-react-app {app-name}
+cd {app-name}
+npm start

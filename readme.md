@@ -14,9 +14,9 @@
     * you never touch the HTML, just the components
 
 ### Modern JavaScript
-* const - immutable
-* let - mutable
-* functionName = () => {...}
+* ```const``` - immutable
+* ```let``` - mutable
+* ```functionName = () => {...}```
 
 #### Components
 * props in a component do not change
